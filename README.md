@@ -8,7 +8,6 @@ This project aims to predict customer churn in the banking sector using a Feedfo
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
-- [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Results](#results)
 - [Future Improvements](#future-improvements)
@@ -43,28 +42,6 @@ The dataset is available from [UCI Machine Learning Repository](https://archive.
 - **HasCrCard**: Whether the customer has a credit card
 - **IsActiveMember**: Whether the customer is an active member
 - **Exited**: Target variable (1 if the customer left the bank, 0 otherwise)
-
-## Installation and Setup
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
-   ```
-
-2. **Install Dependencies**:
-   Make sure you have Python installed, then install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   If there's no `requirements.txt`, you can manually install key libraries:
-   ```bash
-   pip install tensorflow numpy pandas matplotlib seaborn
-   ```
-
-3. **Prepare the Data**:
-   - Download the dataset and place it in the `data` folder.
-   - Run the preprocessing steps as described in the notebook.
 
 ## Usage
 1. **Train the Model**: Open the `Churn_Prediction_Model.ipynb` notebook and follow the steps to preprocess the data, build the model, and train it.
