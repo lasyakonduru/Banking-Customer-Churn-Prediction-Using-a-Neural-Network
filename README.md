@@ -1,7 +1,3 @@
-Here's a sample README file structure for your project titled "Predicting Customer Churn in Banking: A Neural Network Approach with Enhanced Class Imbalance Techniques". This README will provide potential users or collaborators with a clear understanding of the project’s purpose, setup, usage, and features.
-
----
-
 # Predicting Customer Churn in Banking: A Neural Network Approach with Enhanced Class Imbalance Techniques
 
 ## Project Overview
@@ -92,7 +88,3 @@ Contributions are welcome! If you'd like to improve the model, add new features,
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README structure provides a comprehensive overview and makes it easy for others to understand, use, and contribute to your project. Adjust the details based on your project specifics, such as the repository URL and any additional setup requirements.
